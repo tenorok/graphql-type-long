@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chadlieberman/graphql-type-long/issues"
   },
-  "homepage": "https://github.com/chadlieberman/graphql-type-long#readme"
+  "homepage": "https://github.com/chadlieberman/graphql-type-long#readme",
+  "dependencies": {
+    "graphql": "15.5.0"
+  }
 }
